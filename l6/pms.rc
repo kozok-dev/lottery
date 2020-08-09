@@ -1,0 +1,30 @@
+#include <windows.h>
+
+1 DIALOG 100, 50, 366, 250 CAPTION TEXT("pms") STYLE WS_MINIMIZEBOX | WS_SYSMENU EXSTYLE WS_EX_ACCEPTFILES {}
+2 BITMAP pms1.bmp
+3 BITMAP pms2.bmp
+4 ICON pms.ico
+5 CURSOR pms.cur
+1 24 pms.xml
+1 VERSIONINFO FILEVERSION 1,0,0,0 PRODUCTVERSION 1,0,0,0 FILEOS VOS__WINDOWS32 FILETYPE VFT_APP {
+	BLOCK "StringFileInfo" {
+		BLOCK "041103a4" {	// 0x411, 932
+			//VALUE "Comments", ""
+			//VALUE "CompanyName", ""
+			//VALUE "FileDescription", ""
+			VALUE "FileVersion", "1.0.0.0"
+			//VALUE "InternalName", ""
+			VALUE "LegalCopyright", "kozo"
+			//VALUE "LegalTrademarks", ""
+			VALUE "OriginalFilename", "pms.exe"
+			//VALUE "PrivateBuild", ""
+			//VALUE "ProductName", ""
+			VALUE "ProductVersion", "1.0.0.0"
+			//VALUE "SpecialBuild", ""
+		}
+	}
+
+	BLOCK "VarFileInfo" {
+		VALUE "Translation", 0x411, 932
+	}
+}

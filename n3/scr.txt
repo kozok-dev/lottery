@@ -1,0 +1,10 @@
+10
+0
+0
+0
+
+
+
+SUM >= 4 && SUM <= 22 && SUB == 0 &&
+SEQ <= 2 && PASTSAME < 2 && PASTSAME[1] < 2 &&
+HOT > 0 && GAP1 > 9 && PASTSAMESEQ[13] == 0

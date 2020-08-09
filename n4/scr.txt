@@ -1,0 +1,11 @@
+10
+0
+0
+0
+
+
+
+
+SUM >= 9 && SUM <= 27 && BIG >= 1 && BIG <= 3 && ODD >= 1 && ODD <= 3 && SUB == 0 &&
+SEQ <= 2 && PASTSAME < 3 && PASTSAME[1] < 3 && AVG >= 1 && AVG <= 3 &&
+HOT >= 2 && GAP1 > 20 && PASTSAMESEQ[13] == 0

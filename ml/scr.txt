@@ -1,0 +1,11 @@
+10
+0
+0
+0
+
+SUM >= 50 && SUM <= 110 && BIG >= 1 && BIG <= 4 && ODD >= 1 && ODD <= 4 &&
+GROUP1 >= a && GROUP1 <= d && GROUP2 != 3 &&
+(DIGIT1 <= 2 || DIGIT1 == 4) && DIGIT2[0] < 4 && DIGIT2[1] < 4 && DIGIT2[2] < 4 && DIGIT2 >= 3 &&
+(SUB <= 2 || SUB == 4) && SET >= a && SET <= d &&
+SEQ <= 2 && PASTSAME <= 2 && PASTSAME[1] <= 2 && AVG >= 2 && AVG <= 4 &&
+HOT >= 3 && GAP1 > 12 && MARK == 0 && PASTSAMESEQ[13] == 0

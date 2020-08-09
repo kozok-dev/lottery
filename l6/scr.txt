@@ -1,0 +1,11 @@
+10
+0
+0
+0
+
+SUM >= 110 && SUM < 180 && BIG >= 2 && BIG <= 4 && ODD >= 2 && ODD <= 4 &&
+(GROUP1 == b || GROUP1 == c || GROUP1 == e || GROUP1 == f) && GROUP2 != 0 && GROUP2 != 6 &&
+(DIGIT1 <= 2 || DIGIT1 == 4) && DIGIT2[0] < 4 && DIGIT2[1] < 4 && DIGIT2[2] < 4 && DIGIT2[3] < 4 && DIGIT2 >= 3 &&
+(SUB <= 2 || SUB == 4) && (SET == b || SET == c || SET == e || SET == f) &&
+SEQ <= 2 && PASTSAME <= 2 && PASTSAME[1] <= 2 && AVG >= 2 && AVG <= 4 &&
+HOT >= 4 && GAP1 > 12 && MARK == 0 && PASTSAMESEQ[13] == 0
